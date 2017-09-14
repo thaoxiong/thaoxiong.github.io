@@ -7,3 +7,13 @@ article {
   background-color: skyblue;
   width: 300px;
   }
+img {
+  display:block;
+  margin-left: auto;
+  margin-rught: auto;
+  border-radius: 50%;
+}
+
+header {
+  background-color: salmon;
+}
