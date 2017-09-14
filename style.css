@@ -7,7 +7,7 @@ article {
   background-color: skyblue;
   width: 300px;
   }
-img {
+.profile-img {
   display:block;
   margin-left: auto;
   margin-rught: auto;
